@@ -18,7 +18,7 @@ spec:
         app: commerce-mock
     spec:
       containers:
-        - image: lechnerc77/commerce-mock:0.0.1
+        - image: <Your Docker ID>/commerce-mock:0.0.1
           imagePullPolicy: Always
           name: commerce-mock
           ports:
