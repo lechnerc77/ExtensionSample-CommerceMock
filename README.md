@@ -1,6 +1,6 @@
 # Mock up for Events and Services Call of Commerce Cloud
 
-![Overview](./pics/Overview_CommerceCloud.png)
+![Overview](./pics/Overview_CommerceCloud_WhiteBG.png)
 
 This repository contains the source code for the SAP Commerce Cloud mock including all files relevant for building the docker image and deploying the application to Kyma.
 
